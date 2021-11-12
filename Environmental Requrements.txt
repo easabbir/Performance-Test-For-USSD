@@ -1,0 +1,21 @@
+password=		147258
+ussdNumber=		+260969583343
+transferNumber=		+260210000736
+
+agentCode=		594563
+
+
+concurrentUser1		+250780000536
+concurrentUser1Session	FD45847C-5173-4716-B128-F0431F227536
+
+concurrentUser2		+250780000537
+concurrentUser2Session	FD45847C-5173-4716-B128-F0431F227537
+
+===============================================================
+
+agentNumber=		+260969583344
+agentCode=		594563
+ussdNumber=		+260969583343
+
+agentCodeToTransfer= 	435526/+260969583345
+
